@@ -8,6 +8,8 @@ KPI’s
 4.	Total Trip Distance – What is the total distance covered by all trips?
 5.	Average Trip Distance – How far are customers traveling on average per trip?
 6.	Average Trip Time – What is the average duration of trips?
+
+
 Expected Outcomes:
 ✔ Identify trends in ride bookings and revenue generation.
 ✔ Analyse trip efficiency in terms of distance and duration.

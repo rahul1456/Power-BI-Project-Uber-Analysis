@@ -11,9 +11,13 @@ KPI’s
 
 
 Expected Outcomes:
+
 ✔ Identify trends in ride bookings and revenue generation.
+
 ✔ Analyse trip efficiency in terms of distance and duration.
+
 ✔ Compare booking values and trip patterns across different time periods.
+
 ✔ Provide insights to optimize pricing models and improve customer satisfaction.
 
 

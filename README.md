@@ -61,15 +61,12 @@ Understanding trip locations is crucial for optimizing ride distribution, demand
 Total Bookings by Location (Top 5)
 •	Identify the top 5 locations with the highest trip bookings.
 •	Helps in demand forecasting and optimizing driver availability in high-traffic areas.
- 
 •	Determine the most frequently booked vehicle type at each pickup location.
 •	Supports strategic vehicle distribution based on customer preferences and location demand.
+ Other Implementation Enhancements for Uber Trip Analysis Dashboard
 
 
 
-
-
-Other Implementation Enhancements for Uber Trip Analysis Dashboard
 	Bookmark for Data Details 
 •	Add a "Data Details" bookmark to display a pop-up or side panel explaining:
 o	Meaning of key metrics (Total Bookings, Total Trip Distance, etc.).
@@ -85,16 +82,9 @@ o	Data source and refresh frequency.
 
 
 
-
-
-
-
-
-
-
-
 DAHBOARD 2: TIME ANALYSIS
-To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time intervals. This dashboard will help in optimizing operations, pricing, and driver availability.
+To understand trip patterns based on time, Uber needs to analyse ride demand and trends across different time intervals. 
+This dashboard will help in optimizing operations, pricing, and driver availability.
 Global Dynamic Measure (Filters All Charts)
 A measure selector will be created for:
 ✔ Total Bookings
@@ -113,8 +103,6 @@ By Hour and Time - Heatmap (Matrix Grid)
 •	Columns: Days of the Week (Mon-Sun)
 •	Values: Selected Dynamic Measure (e.g., Total Bookings)
 •	Highlights peak booking hours across different days.
-
-
 
 
 DAHBOARD 3: DETAILS TAB
